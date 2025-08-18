@@ -41,9 +41,9 @@ Zahidul Islam Mahim is a dedicated individual with a passion for technology, a c
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=3f4b5e&include_all_commits=true" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=3f4b5e&include_all_commits=true" width="40%"/>
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidulislammahim&theme=tokyonight&hide_border=true&background=3f4b5e&stroke=7aa2f7" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidulislammahim&theme=tokyonight&hide_border=true&background=3f4b5e&stroke=7aa2f7" width="40%" />
 </p>
 
 <p align="center" style="background-color:#fcba03; padding: 10px; border-radius: 5px;">
