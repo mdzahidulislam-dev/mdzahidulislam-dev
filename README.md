@@ -28,26 +28,47 @@ In addition to his professional pursuits, Zahidul remains a passionate explorer 
 
 # External Links
 
-[Facebook](https://www.facebook.com/zahidulislammahim26)
+<p align="center">
+  <a href="https://www.facebook.com/zahidulislammahim26" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/zahidulislammahim2626" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/zahidul_islam_mahim_26/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/zahidulislam_26" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[Facebook Page](https://www.facebook.com/zahidulislammahim2626)
 
-[Instagram](https://www.instagram.com/zahidul_islam_mahim_26/)
-
-[Twitter](https://twitter.com/zahidulislam_26)
 
 
 Zahidul Islam Mahim is a dedicated individual with a passion for technology, a creative mind, and a commitment to contributing to the ever-evolving digital landscape. His career and personal interests reflect his unwavering pursuit of knowledge and innovation in the world of technology.🖤
 
+
 <p align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=3f4b5e&include_all_commits=true" width="40%"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidulislammahim&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd" width="93%"/>
+  
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidulislammahim&theme=tokyonight&hide_border=true&background=3f4b5e&stroke=7aa2f7" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidulislammahim&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="45%"/>
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidulislammahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%"/>
 </p>
 
+
 <p align="center" style="background-color:#fcba03; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=zahidulislammahim&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=zahidulislammahim&label=Profile%20views&color=70a5fd&style=flat" alt="Profile Views"/>
   <a href="https://github.com/zahidulislammahim?tab=followers">
     <img src="https://img.shields.io/github/followers/zahidulislammahim?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
