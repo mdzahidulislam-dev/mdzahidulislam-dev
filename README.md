@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=3f4b5e&center=true&vCenter=true&width=1000&lines=Assalamulaikum;I'm+Zahidul+Islam+Mahim" alt="Typing SVG">
+</p>
+
 # Zahidul Islam Mahim
 
 Zahidul Islam Mahim is a Computer Engineering student and digital creator known for his passion for technology and innovation. Born on November 28, 2023, in Noakhali, Bangladesh, he has dedicated himself to the fields of computer engineering, web development, and fiber optics technology.
@@ -34,3 +38,17 @@ In addition to his professional pursuits, Zahidul remains a passionate explorer 
 
 
 Zahidul Islam Mahim is a dedicated individual with a passion for technology, a creative mind, and a commitment to contributing to the ever-evolving digital landscape. His career and personal interests reflect his unwavering pursuit of knowledge and innovation in the world of technology.🖤
+
+<p align="center">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=3f4b5e&include_all_commits=true" width="35%"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidulislammahim&theme=tokyonight&hide_border=true&background=3f4b5e&stroke=7aa2f7" width="35%" />
+</p>
+
+<p align="center" style="background-color:#fcba03; padding: 10px; border-radius: 5px;">
+  <img src="https://komarev.com/ghpvc/?username=zahidulislammahim&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/zahidulislammahim?tab=followers">
+    <img src="https://img.shields.io/github/followers/zahidulislammahim?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
