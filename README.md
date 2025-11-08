@@ -38,7 +38,6 @@ In addition to his professional pursuits, Zahidul remains a passionate explorer 
   <a href="https://www.instagram.com/zahidul_islam_mahim_26/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
   <a href="https://twitter.com/zahidulislam_26" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -61,10 +60,10 @@ Zahidul Islam Mahim is a dedicated individual with a passion for technology, a c
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidulislammahim&theme=tokyonight&hide_border=true" width="48%" />
   
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true" alt="zahidulislammahim" width="45%"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidulislammahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidulislammahim&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="zahidulislammahim" />
 </p>
 
 
