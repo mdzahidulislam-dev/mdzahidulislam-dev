@@ -2,47 +2,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=3f4b5e&center=true&vCenter=true&width=1000&lines=Assalamulaikum;I'm+Zahidul+Islam+Mahim" alt="Typing SVG">
 </p>
 
-# Zahidul Islam Mahim
-
-Zahidul Islam Mahim is a Computer Engineering student and digital creator known for his passion for technology and innovation. Born on November 28, 2023, in Noakhali, Bangladesh, he has dedicated himself to the fields of computer engineering, web development, and fiber optics technology.
-
-# Education and Early Life
-
-Zahidul Islam Mahim exhibited a keen interest in technology from an early age. Growing up during a period of rapid technological advancements, he was exposed to various electronic devices and software applications that ignited his curiosity. He spent countless hours tinkering with computers and exploring the intricacies of software, which laid the foundation for his future career.
-
-After completing his schooling, Zahidul pursued higher education in Computer Engineering. He attended the National Polytechnic Institute, where he gained extensive knowledge of computer systems and software development. His academic journey deepened his passion for technology and propelled him toward a career in the field.
-
-# Career
-
-Zahidul Islam Mahim is a multifaceted professional with expertise in various domains. He is not only a computer engineering student but also a skilled digital creator. His proficiency extends to photography, video production, and graphic design, showcasing his creative versatility.
-
-One of Zahidul's notable career achievements is his role as an internet service technician. He excels in assisting individuals with setting up and maintaining their internet and digital systems. His dedication to ensuring seamless connectivity and digital experiences has made him a valued asset in the telecommunications industry.
-
-Zahidul's career path took a distinctive turn when he developed a profound interest in fiber optics technology. During a time of rapid internet expansion, fiber optic technology was emerging as a pivotal player in the telecommunications sector. His determination to delve deeper into this field led him to become a fiber technician, where he gained invaluable experience in the installation and maintenance of optical fiber networks.
-
-Throughout his journey, Zahidul Islam Mahim's unwavering dedication to technology and meticulous attention to detail have been instrumental in his success.
-
-# Personal Interests
-
-In addition to his professional pursuits, Zahidul remains a passionate explorer of emerging technologies. He consistently experiments with different programming languages and software tools, keeping himself at the forefront of technological innovations.
 # About Me
+I'm a **MERN Stack Developer** with a passion for building scalable and user-friendly web applications. I love learning new technologies and improving my skills every day.
+
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a MERN Stack Developer
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-🔹 Building performant, responsive UIs with **Modern React**  
 
-🔹 Exploring **advanced state management** solutions  
-
-🔹 Implementing **accessibility** best practices  
-
-🔹 Optimizing **web performance** metrics  
-
-🔹 Mastering **TypeScript** for scalable frontend architecture  
-
-🔹 Developing **full-stack capabilities** with Next.js API routes  
-
-🔹 Contributing to **open-source** frontend projects
+- Building scalable and maintainable web applications using the MERN stack
+- Designing responsive and user-friendly UIs with React and modern frontend tools
+- Implementing RESTful APIs and backend logic with Node.js & Express
+- Managing databases efficiently using MongoDB and integrating third-party APIs
+- Ensuring code quality with best practices, linting, and testing
+- Optimizing application performance and SEO for better user experience
+- Collaborating on full-stack projects and contributing to open-source
+- Continuously learning modern technologies like Next.js, TypeScript, and cloud deployment
 
 
-# <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">Connect with me
+# <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="50px" style="max-width:100%;"> Connect with me
 
 <p align="center">
   
@@ -64,7 +40,7 @@ In addition to his professional pursuits, Zahidul remains a passionate explorer 
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,firebase,git,ai,materialui,mongodb,netlify,nodejs,ps,php,react,sublime,tailwind,vercel,vscode,vite,windows,wordpress,express,discord,codepen,)](https://skillicons.dev)
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Status </b>
@@ -94,3 +70,7 @@ In addition to his professional pursuits, Zahidul remains a passionate explorer 
     <img src="https://img.shields.io/github/stars/zahidulislammahim?style=social" alt="GitHub Stars"/>
   </a>
 </p>
+<div style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?color=1a1b27&height=120&section=footer&fontSize=50&type=waving&fontColor=fefefe"
+       alt="footer" style="width: 100%; display: block;" />
+</div>
