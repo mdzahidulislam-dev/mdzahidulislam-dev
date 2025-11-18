@@ -39,7 +39,7 @@ In addition to his professional pursuits, Zahidul remains a passionate explorer 
   <a href="https://twitter.com/zahidulislam_26" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/zahidulislammahim26" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -49,7 +49,7 @@ In addition to his professional pursuits, Zahidul remains a passionate explorer 
 
 Zahidul Islam Mahim is a dedicated individual with a passion for technology, a creative mind, and a commitment to contributing to the ever-evolving digital landscape. His career and personal interests reflect his unwavering pursuit of knowledge and innovation in the world of technology.🖤
 
-
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Status </b>
 <p align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidulislammahim&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd" width="93%"/>
@@ -71,5 +71,8 @@ Zahidul Islam Mahim is a dedicated individual with a passion for technology, a c
   <img src="https://komarev.com/ghpvc/?username=zahidulislammahim&label=Profile%20views&color=70a5fd&style=flat" alt="Profile Views"/>
   <a href="https://github.com/zahidulislammahim?tab=followers">
     <img src="https://img.shields.io/github/followers/zahidulislammahim?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+   <a href="https://github.com/zahidulislammahim/?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/zahidulislammahim?style=social" alt="GitHub Stars"/>
   </a>
 </p>
