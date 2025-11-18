@@ -25,29 +25,47 @@ Throughout his journey, Zahidul Islam Mahim's unwavering dedication to technolog
 # Personal Interests
 
 In addition to his professional pursuits, Zahidul remains a passionate explorer of emerging technologies. He consistently experiments with different programming languages and software tools, keeping himself at the forefront of technological innovations.
+# About Me
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+🔹 Building performant, responsive UIs with **Modern React**  
 
-# External Links
+🔹 Exploring **advanced state management** solutions  
+
+🔹 Implementing **accessibility** best practices  
+
+🔹 Optimizing **web performance** metrics  
+
+🔹 Mastering **TypeScript** for scalable frontend architecture  
+
+🔹 Developing **full-stack capabilities** with Next.js API routes  
+
+🔹 Contributing to **open-source** frontend projects
+
+
+# <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">Connect with me
 
 <p align="center">
-  <a href="https://www.facebook.com/zahidulislammahim26" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   
-  <a href="https://www.instagram.com/zahidul_islam_mahim_26/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://fb.com/zahidulislammahim26" target="blank">
+    <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook" height="48" width="48" />
   </a>
-  <a href="https://twitter.com/zahidulislam_26" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.linkedin.com/in/zahidulislammahim26" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/zahidulislammahim26" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/zahidul_islam_mahim_26/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
   </a>
+  <a href="https://twitter.com/zahidulislam_26t" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+  </a> 
 </p>
 
 
 
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-Zahidul Islam Mahim is a dedicated individual with a passion for technology, a creative mind, and a commitment to contributing to the ever-evolving digital landscape. His career and personal interests reflect his unwavering pursuit of knowledge and innovation in the world of technology.🖤
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Status </b>
 <p align="center">
