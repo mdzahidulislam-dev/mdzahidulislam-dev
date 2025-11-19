@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=3f4b5e&center=true&vCenter=true&width=1000&lines=Assalamulaikum;I'm++MD+Zahidul+Islam" alt="Typing SVG">
 </p>
