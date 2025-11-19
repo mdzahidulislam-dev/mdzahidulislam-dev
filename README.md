@@ -35,7 +35,7 @@ and improving my skills every day.
     <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook" height="38" width="38" />
   </a>
-  <a href="https://www.linkedin.com/in/zahidulislammahim26" target="blank">
+  <a href="https://www.linkedin.com/in/zahidulislam-mahim" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width=40" />
   </a>
   <a href="https://www.instagram.com/zahidul_islam_mahim_26/" target="blank">
