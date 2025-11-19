@@ -1,10 +1,18 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=3f4b5e&center=true&vCenter=true&width=1000&lines=Assalamulaikum;I'm++MD+Zahidul+Islam" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=32334b&center=true&vCenter=true&width=1000&lines=Assalamulaikum;I'm++MD+Zahidul+Islam" alt="Typing SVG">
 </p>
 
-# About Me
-I'm a **MERN Stack Developer** with a passion for building scalable and user-friendly web applications. I love learning new technologies and improving my skills every day.
+<div align="center">
+  <pre style="font-family: inherit white-space: normal; width: 60%;">
+I'm a <strong>MERN Stack Developer</strong> with a passion for building scalable and 
+user-friendly web applications. I love learning new technologies 
+and improving my skills every day.
+  </pre>
+</div>
+
+
+
 
 # <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a MERN Stack Developer
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -25,23 +33,25 @@ I'm a **MERN Stack Developer** with a passion for building scalable and user-fri
   
   <a href="https://fb.com/zahidulislammahim26" target="blank">
     <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Facebook" height="48" width="48" />
+      alt="Facebook" height="38" width="38" />
   </a>
   <a href="https://www.linkedin.com/in/zahidulislammahim26" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width=40" />
   </a>
   <a href="https://www.instagram.com/zahidul_islam_mahim_26/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="40" width="40" />
   </a>
   <a href="https://twitter.com/zahidulislam_26" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="40" width="40" />
   </a> 
 </p>
 
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,firebase,git,ai,materialui,mongodb,netlify,nodejs,ps,php,react,sublime,tailwind,vercel,vscode,vite,windows,wordpress,express,discord,codepen,)](https://skillicons.dev)
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" ><b> Skills</b>
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,firebase,git,ai,materialui,mongodb,netlify,nodejs,ps,php,react,sublime,tailwind,vercel,vscode,vite,windows,wordpress,express,discord,codepen&perline=10"  />
+</p>
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Status </b>
@@ -72,6 +82,6 @@ I'm a **MERN Stack Developer** with a passion for building scalable and user-fri
   </a>
 </p>
 <div style="width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?color=1a1b27&height=120&section=footer&fontSize=50&type=waving&fontColor=fefefe"
+  <img src="https://capsule-render.vercel.app/api?color=2a2b3f&height=120&section=footer&fontSize=50&type=waving&fontColor=fefefe"
        alt="footer" style="width: 100%; display: block;" />
 </div>
