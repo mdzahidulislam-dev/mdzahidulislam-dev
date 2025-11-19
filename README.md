@@ -44,6 +44,9 @@ and improving my skills every day.
   <a href="https://twitter.com/zahidulislam_26" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="40" width="40" />
   </a> 
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLdkFPBcVGdZkxRQxkMMFnsSnKRNrdxGzWgJDgNPrQcKbGMDZPQsTZLZMkbkrjpBwRFzdB" >
+    <img align="center" alt="Shourya742 | Gmail" width="45px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 </p>
 
 
