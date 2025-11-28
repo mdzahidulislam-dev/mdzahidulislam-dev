@@ -35,7 +35,7 @@ and improving my skills every day.
     <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook" height="38" width="38" />
   </a>
-  <a href="https://www.linkedin.com/in/zahidulislam-mahim" target="blank">
+  <a href="https://www.linkedin.com/in/mdzahidulislam-dev" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width=40" />
   </a>
   <a href="https://www.instagram.com/zahidul_islam_mahim_26/" target="blank">
@@ -60,28 +60,28 @@ and improving my skills every day.
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Status </b>
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidulislammahim&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd" width="93%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdzahidulislam-dev&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd" width="93%"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidulislammahim&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahidulislam-dev&theme=tokyonight&hide_border=true" width="48%" />
   
   
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidulislammahim&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true" alt="zahidulislammahim" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzahidulislam-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true" alt="MD Zahidul Islam" width="45%"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidulislammahim&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="zahidulislammahim" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzahidulislam-dev&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="MD Zahidul Islam" />
   
 </p>
 
 
 <p align="center" style="background-color:#fcba03; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=zahidulislammahim&label=Profile%20views&color=70a5fd&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/zahidulislammahim?tab=followers">
-    <img src="https://img.shields.io/github/followers/zahidulislammahim?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=mdzahidulislam-dev&label=Profile%20views&color=70a5fd&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/mdzahidulislam-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/mdzahidulislam-dev?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-   <a href="https://github.com/zahidulislammahim/?tab=repositories&q=&type=&language=&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/zahidulislammahim?style=social" alt="GitHub Stars"/>
+   <a href="https://github.com/mdzahidulislam-dev/?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/mdzahidulislam-dev?style=social" alt="GitHub Stars"/>
   </a>
 </p>
 <div style="width: 100%;">
